@@ -44,4 +44,10 @@ The purpose of creating this dashboard is to assist the Real Estate Investment D
 
 ## File Contents
 
+- [Unit 6 Instructions](Unit_6_Instructions.md)
+- [Part 1: Rental Analysis](Code/Toronto_Rental_Analysis.ipynb)
+- [Part 2: Dashboard](Code/Toronto_Dashboard.ipynb)
+- [Installation Guide ](PyViz_InstallationGuide.md)
+- [Data](Code/Data)
+
 --- 
