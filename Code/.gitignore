@@ -1,0 +1,5 @@
+##  This file ignores Mapbox special keys
+
+# Ignore files named '.env'
+.env
+
