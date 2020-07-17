@@ -40,6 +40,22 @@ The purpose of creating this dashboard is to assist the Real Estate Investment D
 
 ## Installation Requirements
 
+To run the code in the Toronto Rental Analysis and Toronto Dashboard notebooks you will need to have a personal Mapbox API key. 
+
+Additionally, there is a "PyViz Installation Guide" included in this repository provided by the University of Toronto School of Continuing Studies FinTech Bootcamp Course (2020). Users must already have the listed requirements installed previously or follow the guide to install the packages prior to running the code. 
+
+### Installation Guide Can be Found Here
+
+- [Installation Guide ](PyViz_InstallationGuide.md)
+
+```
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install panel
+pip install plotly
+```
+
 ---
 
 ## File Contents
