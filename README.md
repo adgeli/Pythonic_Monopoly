@@ -8,6 +8,10 @@
 
 ## Table of Contents
 
+- [Project Description](#Project-Description)
+- [Installation Requirements](#Installation-Requirements)
+- [File Contents](#File-Contents)
+
 ---
 
 ## Project Description 
